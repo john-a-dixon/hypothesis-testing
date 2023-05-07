@@ -1,1 +1,1 @@
-# hypothesis-testing
+# Hypothesis Testing
